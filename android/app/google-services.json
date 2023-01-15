@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "986306343548",
+    "project_id": "shatarko-ab8ea",
+    "storage_bucket": "shatarko-ab8ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986306343548:android:db4024b897e138ebbe4ff9",
+        "android_client_info": {
+          "package_name": "com.example.shatarkopanicbtn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "986306343548-d3vsk02thlnv83jcd8c4etub9o5oprl0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArTgRIq_CT6ojdsxkar82fuAsEzKzbUvw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "986306343548-d3vsk02thlnv83jcd8c4etub9o5oprl0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
